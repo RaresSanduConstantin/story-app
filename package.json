@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/RaresSanduConstantin/story-app/issues"
   },
-  "homepage": "https://github.com/RaresSanduConstantin/story-app#readme",
+  "homepage": "https://story-book-app.herokuapp.com/",
   "dependencies": {
     "connect-mongo": "^3.2.0",
     "dotenv": "^8.2.0",
